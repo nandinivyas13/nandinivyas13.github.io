@@ -23,6 +23,14 @@ const Resume2 = () => {
 
             <h3 className="resume__title">Education</h3>
             <div className="resume__item">
+              <h4>Post Graduation</h4>
+              <h5>2017 - 2019</h5>
+              <p>
+                <em>D.Y Patil University, Navi Mumbai </em>
+              </p>
+              <p>MBA International Business</p>
+            </div>
+            <div className="resume__item">
               <h4>Graduation</h4>
               <h5>2014 - 2017</h5>
               <p>
@@ -64,9 +72,7 @@ const Resume2 = () => {
               <p>
                 <em>International Bussiness Development</em>
               </p>
-              
             </div>
-
           </div>
           <div className="resume__column">
             <h3 className="resume__title">Professional Experience</h3>
@@ -81,7 +87,7 @@ const Resume2 = () => {
               <h4>Contest Coordinator</h4>
               <h5>May 2021 - July 2022</h5>
               <p>
-                <em>LeFrehindi - Paris</em>
+                <em>Le Frehindi - Paris</em>
               </p>
             </div>
 
@@ -97,30 +103,15 @@ const Resume2 = () => {
               <h4>French Language DELF B1</h4>
               <h5>2020 - 2021</h5>
               <p>
-                <em>
-                Alliance Française de Bombay
-                </em>
+                <em>Alliance Française de Bombay</em>
               </p>
             </div>
             <div className="resume__item">
               <h4>Search Engine Optimization</h4>
               <h5>2019</h5>
               <p>
-                <em>
-                Coursera
-                </em>
+                <em>Coursera</em>
               </p>
-            </div>
-            <div className="resume__item">
-              <h4>National Cadet Corps </h4>
-              <p>
-                <em>Defense</em>
-              </p>
-              <p>
-                <em>Certificate 'A' (grade A)</em>
-              </p>
-              
-              
             </div>
           </div>
         </div>
