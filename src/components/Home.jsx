@@ -13,9 +13,9 @@ const Home = () => {
 
             <div className="home__data">
               <h1 className="home__title">Nandini Vyas</h1>
-              <h3 className="home__subtitle">Content Strategist and Writer</h3>
+              <h3 className="home__subtitle">Content Strategist</h3>
               <p className="home__description">
-              Vertoz Advertising Limited
+              Versatile Creative Writer
               </p>
 
               <div className="home__social">

@@ -9,7 +9,8 @@ const Resume2 = () => {
         <span className="section__subtitle">Summary</span>
 
         <div className="resume__container container grid">
-          <div className="resume__column">
+          <div className="resume__column ">
+            <h3 className="resume__title">Profile</h3>
             <div className="resume__item">
               <h4>Nandini Vyas</h4>
               <p>
@@ -20,61 +21,6 @@ const Resume2 = () => {
                 <p>nandini.9605@gmail.com</p>
               </a>
             </div>
-
-            <h3 className="resume__title">Education</h3>
-            <div className="resume__item">
-              <h4>Post Graduation</h4>
-              <h5>2017 - 2019</h5>
-              <p>
-                <em>D.Y Patil University, Navi Mumbai </em>
-              </p>
-              <p>MBA International Business</p>
-            </div>
-            <div className="resume__item">
-              <h4>Graduation</h4>
-              <h5>2014 - 2017</h5>
-              <p>
-                <em>K. J Somaiya College </em>
-              </p>
-              <p>Bachelors of Commerce</p>
-            </div>
-            <div className="resume__item">
-              <h4>H.S.C</h4>
-              <h5>2012 - 2014</h5>
-              <p>
-                <em>Smt. Sulochanadevi Singhania School</em>
-              </p>
-              <p>Class: 12th (ICSE Board)</p>
-            </div>
-            <div className="resume__item">
-              <h4>S.S.C</h4>
-              <h5>2000 - 2012</h5>
-              <p>
-                <em>Smt. Sulochanadevi Singhania School</em>
-              </p>
-              <p>Class: 10th (ICSE Board)</p>
-            </div>
-
-            <h3 className="resume__title">Skills</h3>
-            <div className="resume__item">
-              <p>
-                <em>Content Writing and Strategy</em>
-              </p>
-              <p>
-                <em>Web Content Writing, Editing and Proofreading</em>
-              </p>
-              <p>
-                <em>Social Media and Email Marketing</em>
-              </p>
-              <p>
-                <em>French</em>
-              </p>
-              <p>
-                <em>International Bussiness Development</em>
-              </p>
-            </div>
-          </div>
-          <div className="resume__column">
             <h3 className="resume__title">Professional Experience</h3>
             <div className="resume__item">
               <h4>Content Strategist</h4>
@@ -98,6 +44,47 @@ const Resume2 = () => {
                 <em>CultFit Healthcare Pvt. Ltd.</em>
               </p>
             </div>
+            <h3 className="resume__title">Skills</h3>
+            <div className="resume__item">
+              <p>
+                <em>Website Content Creation</em>
+              </p>
+              <p>
+                <em>Social Media Strategy</em>
+              </p>
+              <p>
+                <em>SEO Optimization</em>
+              </p>
+              <p>
+                <em>Corporate Communication</em>
+              </p>
+              <p>
+                <em>Brand Storytelling</em>
+              </p>
+              <p>
+                <em>Project Management</em>
+              </p>
+            </div>
+          </div>
+          <div className="resume__column">
+            <h3 className="resume__title">Education</h3>
+            <div className="resume__item">
+              <h4>Post Graduation</h4>
+              <h5>2017 - 2019</h5>
+              <p>
+                <em>D.Y Patil University, Navi Mumbai </em>
+              </p>
+              <p>MBA International Business</p>
+            </div>
+            <div className="resume__item">
+              <h4>Graduation</h4>
+              <h5>2014 - 2017</h5>
+              <p>
+                <em>K. J Somaiya College </em>
+              </p>
+              <p>Bachelors of Commerce</p>
+            </div>
+
             <h3 className="resume__title">Certifications and Activities</h3>
             <div className="resume__item">
               <h4>French Language DELF B1</h4>
@@ -110,7 +97,7 @@ const Resume2 = () => {
               <h4>Search Engine Optimization</h4>
               <h5>2019</h5>
               <p>
-                <em>Coursera</em>
+                <em>University Of California Davis (Coursera)</em>
               </p>
             </div>
           </div>
