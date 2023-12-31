@@ -25,7 +25,7 @@ const Home = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i className="uil uil-google"></i>
+                <i className="uil uil-envelope-alt"></i>
               </a>
 
               <a
