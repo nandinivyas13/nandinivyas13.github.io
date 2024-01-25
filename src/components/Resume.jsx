@@ -39,7 +39,7 @@ const Resume2 = () => {
 
             <div className="resume__item">
               <h4>Associate Center Manager</h4>
-              <h5>May 2021 - July 2022</h5>
+              <h5>May 2019 - July 2019</h5>
               <p>
                 <em>CultFit Healthcare Pvt. Ltd.</em>
               </p>
